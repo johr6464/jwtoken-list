@@ -1,0 +1,21 @@
+{
+  "name": "JW Token List",
+  "logoURI": "https://jwtoken.link/assets/logo.png",
+  "keywords": ["jwtoken", "jinnie", "meme", "utility", "bsc"],
+  "timestamp": "2025-07-07T13:00:00+05:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x2D73f8e1D52Dbf778A49504555E6213B93a0a25F",
+      "name": "JWToken",
+      "symbol": "JW",
+      "decimals": 18,
+      "logoURI": "https://jwtoken.link/assets/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
